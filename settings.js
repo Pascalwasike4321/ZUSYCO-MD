@@ -10,7 +10,7 @@
 
 
 
-Project Name : ZUSYCO - MD
+Project Name : PASCAL - MD
 Creator : @darkmakerofc , @mr-nima-x 
 
 */
@@ -19,7 +19,7 @@ module.exports = {
   OWNER_NUMBER: "254714480162",
   SUDO_NUMBERS : "254714480162,94719574492",
   OWNER_NAME: "『 PASCAL 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  BOT_NAME : "PASCAL",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
